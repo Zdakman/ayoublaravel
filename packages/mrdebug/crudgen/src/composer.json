@@ -1,0 +1,7 @@
+{
+    "name": "ayoub_sadiki/src",
+    "description": "crud generator",
+    "type": "crud",
+    "license": "ayoub",
+    "require": {}
+}
